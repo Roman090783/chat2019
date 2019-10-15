@@ -31,7 +31,7 @@ public class Fenster extends Frame implements WindowListener {
 		setFont(new Font(Font.SANS_SERIF, Font.BOLD, 40));
 		//(Color.RED);
 
-		Image image = Toolkit.getDefaultToolkit().getImage("res/ADHOC-logo.jpg");
+		Image image = Toolkit.getDefaultToolkit().getImage("res/sun.jpg");
 		setIconImage(image);
 		
 		
